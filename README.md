@@ -1,7 +1,9 @@
 # Felype Macario
 
 🎓 Estudante do curso Técnico em Informática e Superior.
-💻 Aprendendo sobre Redes de Computadores, Programação e Desenvolvimento Web.  
+
+💻Aprendendo sobre Redes de Computadores, Programação e Desenvolvimento Web.  
+
 🔧 Atualmente estudando no IFSP cursando técnico e fazendo superior em ADS na universidade Anhanguera.  
 
 #🚀 Habilidades em desenvolvimento

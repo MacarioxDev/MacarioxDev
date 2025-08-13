@@ -1,16 +1,20 @@
-## Hi there 👋
+# Felype Macario
 
-<!--
-**MacarioxDev/MacarioxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do curso Técnico em Informática e Superior.
+💻 Aprendendo sobre Redes de Computadores, Programação e Desenvolvimento Web.  
+🔧 Atualmente estudando no IFSP cursando técnico e fazendo superior em ADS na universidade Anhanguera.  
 
-Here are some ideas to get you started:
+#🚀 Habilidades em desenvolvimento
+- 🌐 HTML, CSS e JavaScript
+- 📡 Redes de Computadores (Packet Tracer, TCP/IP)
+- 💾 Banco de Dados
+- 🐍 Lógica de Programação (Python, PHP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📂 Projetos (Em andamento)
+-
+-
+
+
+# 📫 Como me encontrar
+- LinkedIn: Em construção.
+- Email:fogomacariofelype@gmail.com
